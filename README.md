@@ -53,5 +53,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="12" />
-  <img src="https://ollama.com/public/ollama.png) height="40" alt="Ollama" title="Ollama" />
+  <img src="https://ollama.com/public/ollama.png" height="40" alt="Ollama" title="Ollama" />
 </div>

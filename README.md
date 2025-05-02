@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  I'm <strong>David</strong>, a Software Engineer from 🇵🇹 Portugal passionate about building modern web applications and robust back-end systems.  
-  <br>I enjoy working across the full stack — from beautiful UIs to powerful APIs.
+  I'm <strong>David</strong>, a Software Engineer from 🇵🇹 Portugal.  
 </p>
 
 ---
@@ -45,23 +44,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidsilva02&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsilva02&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-<h2 align="left">🌍 Let's Connect!</h2>
-
-<p align="left">
-  💼 <a href="https://www.linkedin.com/in/davidmigueldev" target="_blank">LinkedIn</a> • 🌐 <a href="https://your-portfolio.com" target="_blank">Portfolio</a>  
-</p>

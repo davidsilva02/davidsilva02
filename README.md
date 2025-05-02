@@ -52,4 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/jmorganca/ollama/main/docs/public/favicon.svg" height="40" alt="Ollama" title="Ollama" />
 </div>

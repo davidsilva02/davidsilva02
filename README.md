@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chromadb/chromadb-original.svg" height="40" alt="ChromaDB" title="ChromaDB" />
+  <img src="https://www.trychroma.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchroma.d840f629.png&w=1920&q=75&dpl=dpl_GnD5LnDxKNMwZy7YPWCKdKY3D28m" height="40" alt="ChromaDB" title="ChromaDB" />
 
 </div>
 

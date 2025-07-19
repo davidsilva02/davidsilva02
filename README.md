@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="left">🧠 Technologies I Work With</h2>
+<h2 align="left">🧠 Technologies</h2>
 
 ### 👨‍💻 Frontend Development
 <div align="left">
